@@ -1,0 +1,10 @@
+@keyframes menu-underline {
+    0% {
+        -webkit-transform: scale(0.1);
+        transform: scale(0.1);
+    }
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
